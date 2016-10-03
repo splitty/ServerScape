@@ -1,9 +1,6 @@
 # ServerScape
 Universal Steam Server Connector
 
-## If you want the binary installer for Windows, the link is here [Splitmane.com](http://splitmane.com) under the downloads section.
-GrabMyWaifu is a simple application that allows for the mass downloading of media by thread on 4Chan.  It currently is set-up to download all of the media of a single thread into a created folder in the name of that thread.  The backbone of this application is JavaFX with the parsing done by jSoup.  Currently, the only available native installer is for Windows.  
-
 ### What it does-
 
   * Directly connects to any steam game server.
