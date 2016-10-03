@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane prefHeight="200.0" prefWidth="300.0" styleClass="background" stylesheets="@DarkTheme.css" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8">
+   <children>
+      <Label layoutX="98.0" layoutY="-7.0" styleClass="label-header" text="Sorry!" AnchorPane.leftAnchor="98.0" AnchorPane.rightAnchor="97.0" />
+      <TextArea editable="false" layoutX="50.0" layoutY="52.0" prefHeight="148.0" prefWidth="200.0" text="It's great that you want to join the project, but we are currently still testing our services.  You can follow the progress on either http://theweaponshop.ca or at http://lukelabenski.com thanks for you interest!" wrapText="true" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" />
+   </children>
+</AnchorPane>

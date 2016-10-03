@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="ServerScape.jnlp">
+  <information>
+    <title>ServerScape</title>
+    <vendor>Splitmane</vendor>
+    <description>HentaiSimulator</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="ServerScape.jar" size="463054" download="eager" />
+    <jar href="libs\jsoup-1.8.3.jar" size="315321" download="eager" />
+    <jar href="libs\mysql-connector-java-5.1.36-bin.jar" size="972009" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="0" height="0" main-class="launcher.MainApp"  name="HentaiSimulator" />
+  <update check="background"/>
+</jnlp>
